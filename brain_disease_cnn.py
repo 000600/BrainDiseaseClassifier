@@ -18,8 +18,8 @@ import random
 from random import randint
 
 # Define paths
-train_path = '/content/drive/MyDrive/Machine Learning/Convolutional Neural Networks/Data/BrainDiseaseData/train/'
-test_path = '/content/drive/MyDrive/Machine Learning/Convolutional Neural Networks/Data/BrainDiseaseData/test/'
+train_path = ' < TRAIN PATH > '
+test_path = ' < TEST PATH > '
 
 # Define path specification list
 path_list = ['AD', 'CONTROL', 'PD']
