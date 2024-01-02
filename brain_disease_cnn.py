@@ -83,7 +83,7 @@ print('Test Labels Shape:', y_test.shape)
 epochs = 30
 batch_size = 32
 
-# Initialize SGD Optimizer
+# Initialize SGD optimizer
 opt = SGD(learning_rate = 0.001)
 
 # Create model
